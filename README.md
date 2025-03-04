@@ -1,5 +1,4 @@
-# Unity-TeamProject-TARZ
- 유니티 기업 협약 프로젝트 (TARZ)
+# TARZ3 - 기업 협약 팀 프로젝트
 
 # **Ⅰ.** 개요
 
